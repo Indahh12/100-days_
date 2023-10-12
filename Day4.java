@@ -1,5 +1,6 @@
 
 package day.pkg4;
+import.java.util.Scanner
 
 public class Day4 {
 
