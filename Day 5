@@ -1,0 +1,16 @@
+
+package day.pkg5;
+
+import java.util.Scanner;
+
+public class Day5 {
+
+        public static void main(String[] args) {
+            Scanner masukan = new Scanner (System.in);
+            System.out.println("Ketikkan umur");
+            int umur = masukan.nextInt();
+            System.out.println("Umur anda adalah" + umur);
+        
+    }
+    
+}
