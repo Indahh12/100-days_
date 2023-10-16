@@ -1,0 +1,13 @@
+
+package day.pkg8;
+public class Day8 {
+        public static void main(String[] args) {
+            short a = 40;
+            short b = 20;
+            short nilai = (short)(a+b);
+            
+            System.out.println("Hasil dari penambahan a dan b adalah :" + nilai);
+        
+    }
+    
+}
