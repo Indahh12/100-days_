@@ -10,6 +10,7 @@ public class Days21 {
         System.out.println("Masukkan jumlah hari: ");
         int jumlahHari = input.nextInt();
         
+        
         //Hitung jumlah bulan 
         int jumlahBulan = jumlahHari / 30 ;
         
