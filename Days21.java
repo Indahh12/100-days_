@@ -1,8 +1,8 @@
-package day.pkg21;
+package days.pkg21;
 
 import java.util.Scanner;
 
-public class Day21 {
+public class Days21 {
     public static void main(String[] args) {
         Scanner input= new Scanner (System.in);
         
