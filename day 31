@@ -1,0 +1,32 @@
+
+package pkg31;
+ import java.util.Scanner;
+public class Main {
+
+   
+    public static void main(String[] args) {
+       Scanner sc = new Scanner(System.in);
+        System.out.println("Masukkan nama suatu benda: ");
+        String benda = sc.nextLine();
+        
+        switch (benda){
+            case "sepeda":
+                System.out.println("Sepeda adalah alat transportasi yang memiliki dua roda");
+                break;
+            case "komputer":
+                System.out.println("Komputer adalah perangkat elektronik yang digunakan untuk mengolah data");
+                break;
+            case "buku":
+                System.out.println("Buku merupakan kumpulan halaman yang berisi teks atau gambar");
+                break;
+            case "pulpen":
+                System.out.println("Pulpen adalah alat tulis yang berbentuk pena");
+                break;
+            default:
+                System.out.println("Tidak ada penjelasan pada benda tersebut");
+            
+            
+        }
+    }
+    
+}
