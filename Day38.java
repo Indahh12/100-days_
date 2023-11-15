@@ -1,6 +1,6 @@
 
-package day.pkg39;
-public class Day39 {
+package day.pkg38;
+public class Day38 {
     public static void main(String[] args) {
         long nilai = 8000000000L; //Menetapkan nilai long
         
