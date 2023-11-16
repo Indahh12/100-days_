@@ -1,5 +1,9 @@
 
+<<<<<<< HEAD
 package day.pkg39;
+=======
+package day.pkg38;
+>>>>>>> 1d3d0b698421c7b0de4cbc87fe9ebede63367121
 public class Day38 {
     public static void main(String[] args) {
         long nilai = 8000000000L; //Menetapkan nilai long
